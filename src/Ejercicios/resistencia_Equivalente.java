@@ -1,4 +1,4 @@
-package Ejercicios;
+package Ejercicios;//Ejercicio 1 de la Guia
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;

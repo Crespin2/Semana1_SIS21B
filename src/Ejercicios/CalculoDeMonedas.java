@@ -11,10 +11,10 @@ public class CalculoDeMonedas {
         MCanada=USD*0.97;
         
         //Imprimiendo resultado
-        System.out.println("$100.00 equivalen en Europa a: Є"+MEuropa);//Euros
-        System.out.println("$100.00 equivalen en el Reino Unido a: £"+MReinoUnido);//LibrasEsterlinas
-        System.out.println("$100.00 equivalen en Australia a: A$"+MAustralia);//Dolar Australiano
-        System.out.println("$100.00 equivalen en Canda a: C$"+MCanada);//Dolar Canadiense
+        System.out.println("$100.00 equivale en Europa a: Є"+MEuropa);//Euros
+        System.out.println("$100.00 equivale en el Reino Unido a: £"+MReinoUnido);//LibrasEsterlinas
+        System.out.println("$100.00 equivale en Australia a: A$"+MAustralia);//Dolar Australiano
+        System.out.println("$100.00 equivale en Canda a: C$"+MCanada);//Dolar Canadiense
     }
     
 }
